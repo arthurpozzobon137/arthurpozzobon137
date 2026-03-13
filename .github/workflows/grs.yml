@@ -35,8 +35,8 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=readme-tools&repo=github-readme-stats
-          path: profile/pin-readme-tools-github-readme-stats.svg
+          options: username=lambert-nicholasfrancis&repo=API-Bliblioteca&show_owner=true&theme=dark&bg_color=00000000&description_lines_count
+          path: profile/pin-API-biblioteca.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
