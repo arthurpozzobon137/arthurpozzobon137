@@ -5,4 +5,4 @@
 
 ### Repositórios Contribuídos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lambert-nicholasfrancis&repo=API-Bliblioteca)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/lambert-nicholasfrancis/API-Bliblioteca))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lambert-nicholasfrancis&repo=API-Bliblioteca&show_owner=true&description_lines_count)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/lambert-nicholasfrancis/API-Bliblioteca))
