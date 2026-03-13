@@ -5,9 +5,9 @@
 
 ### Repositórios Contribuídos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lambert-nicholasfrancis&repo=API-Bliblioteca&show_owner=true&description_lines_count)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/lambert-nicholasfrancis/API-Bliblioteca))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lambert-nicholasfrancis&repo=API-Bliblioteca&show_owner=true&theme=dark&bg_color=00000000&description_lines_count)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/lambert-nicholasfrancis/API-Bliblioteca))
 
 
 ### Linguagens mais usadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpozzobon137&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpozzobon137&layout=compact&theme=dark&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
