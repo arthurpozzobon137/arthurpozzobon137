@@ -12,6 +12,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpozzobon137&layout=compact&theme=dark&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
 ![Pinned](./profile/pin-API-biblioteca.svg)
+-->
