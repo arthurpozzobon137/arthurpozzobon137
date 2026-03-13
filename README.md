@@ -6,3 +6,8 @@
 ### Repositórios Contribuídos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lambert-nicholasfrancis&repo=API-Bliblioteca&show_owner=true&description_lines_count)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/lambert-nicholasfrancis/API-Bliblioteca))
+
+
+### Linguagens mais usadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpozzobon137)](https://github.com/anuraghazra/github-readme-stats)
